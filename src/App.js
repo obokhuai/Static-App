@@ -14,7 +14,7 @@ function App() {
       <div className="hero is-primary title has-text-centered" >
         <div className="hero-body">
         <p className="subtitle" >
-        Animals color our world 
+        Animals color our world through care and love
         </p>
         </div>
       </div>
